@@ -21,6 +21,7 @@ Guidelines:
     Formatting and Response Structure:
         Each word or punctuation mark should appear on a new line.
         Format each line as: [letter1 letter2 letter3...] [interpreted word without underscores] [% certainty]
+        If you do not see ANY words in the image, simply state "[No Text]"
         Example:
             T e _ t i n g [Testing] 85%
             , [,] 96%
