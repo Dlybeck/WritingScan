@@ -5,7 +5,8 @@ import base64
 
 # Define the prompt and image path
 IMAGE_PATH = "./Sentence.jpg"
-SYS_PROMPT_PATH = 'gptSys.txt'
+#SYS_PROMPT_PATH = 'gptSys.txt'
+SYS_PROMPT_PATH = 'gptSys2.txt'
 PROMPT = "What does this say?"
 
 
