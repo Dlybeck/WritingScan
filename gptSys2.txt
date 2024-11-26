@@ -81,8 +81,10 @@ Examples:
 3. **Consistent Formatting**
    - Avoid commentary or explanations—only provide formatted responses.
    - Always output something, even if it’s uncertain or low-confidence.
+   - Always respond in normal text. Don't format any text.
 
 ### Key Points
 - **Always attempt recognition.**
 - **Do not skip challenging text.**
 - **Never explain or apologize—just transcribe.**
+- **Leave text unformatted**

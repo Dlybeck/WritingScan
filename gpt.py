@@ -54,7 +54,7 @@ def run_chatgpt(img_path):
         system_prompt = ''.join(lines)
     
     result = chatgpt_with_image(img_path, system_prompt)
-    print(result)
+    return result
 
 # # Read the system prompt from a file
 # with open(SYS_PROMPT_PATH, 'r', encoding='utf-8') as file:
