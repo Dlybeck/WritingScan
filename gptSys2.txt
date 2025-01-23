@@ -32,7 +32,7 @@ Examples:
 
 3. **Character-by-Character Analysis**
    - Break down each word into its individual letters.
-   - Identify special features: ascenders (e.g., b, d), descenders (e.g., g, p), dots, and crosses.
+   - Identify special features: ascenders (e.g., b, d, h), descenders (e.g., g, p), dots, and crosses.
    - Avoid guessing based on sentence or context.
 
 4. **Confidence Scoring**
