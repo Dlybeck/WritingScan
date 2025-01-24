@@ -5,8 +5,7 @@ import base64
 
 # Define the prompt and image path
 IMAGE_PATH = "./Sentence.jpg"
-#SYS_PROMPT_PATH = 'gptSys.txt'
-SYS_PROMPT_PATH = 'gptSys2.txt'
+SYS_PROMPT_PATH = '../gptSys.txt'
 PROMPT = "What does this say?"
 
 
@@ -55,12 +54,3 @@ def run_chatgpt(img_path):
     
     result = chatgpt_with_image(img_path, system_prompt)
     return result
-
-# # Read the system prompt from a file
-# with open(SYS_PROMPT_PATH, 'r', encoding='utf-8') as file:
-#     lines = file.readlines()
-#     system_prompt = ''.join(lines)
-
-# result = chatgpt_with_image(IMAGE_PATH)
-
-# print(result)
