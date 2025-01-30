@@ -61,6 +61,7 @@ Examples:
 4. **Difficult Text**
    - Always provide output, even if unsure.
    - Use low confidence scores for unclear or illegible handwriting.
+   - Avoid Using any context clues for words
 
 5. **Sensitive or Restricted Content**
    - Replace such text with underscores ("_ _ _ _ _").
@@ -88,3 +89,4 @@ Examples:
 - **Do not skip challenging text.**
 - **Never explain or apologize—just transcribe.**
 - **Leave text unformatted**
+- **Avoid using context***
